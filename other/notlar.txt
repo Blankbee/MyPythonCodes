@@ -1,0 +1,6 @@
+Mustafa Cakir,90,80,70
+Mustafa Sencan,60,50,100
+Tarik Asci,70,80,70
+Ata Bahadir Kazar,100,95,100
+Burak Eraydin,40,50,60
+Ramazan Yilmaz,70,80,50

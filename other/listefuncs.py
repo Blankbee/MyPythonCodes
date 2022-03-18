@@ -1,0 +1,15 @@
+x=[1,2,3,4,5]
+y=[5,12,13,14,15]
+x.extend(y)
+print(x)
+y.pop()
+x.insert(0,0)
+print(x)
+print(y)
+x.remove(12)
+print(x)
+x.index(13)
+a=[5,2,3,1,4]
+print(a.sort())
+a.sort(reverse=True)
+print(a)
